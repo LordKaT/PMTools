@@ -1,0 +1,6 @@
+1 - undeploy PMTools
+2 - Upload and deploy new PMTools
+3 - SSH into pmtools box
+3 - cd /var/lib/tomcat8/webapps/PMTools
+4 - ln -s /home/pmwatchdog/downloads ./downloads
+
